@@ -6,5 +6,5 @@ Objectives:
 3. **Pipeline Integration:** Integrate the fine-tuned Helsinki model with the AraT5 model to create a pipeline.
 
 Models Used: 
-1. **Helsinki/NLP Model:** huggingface.co/Helsinki-NLP/opus-mt-ar-en?text=
-2. **AraT5:** huggingface.co/PRAli22/arat5-arabic-dialects-translation?text=
+1. **Helsinki/NLP Model:** [huggingface.co/Helsinki-NLP/opus-mt-ar-en](https://huggingface.co/Helsinki-NLP/opus-mt-ar-en?text=)
+2. **AraT5:** [huggingface.co/PRAli22/arat5-arabic-dialects-translation](https://huggingface.co/PRAli22/arat5-arabic-dialects-translation?text=)
